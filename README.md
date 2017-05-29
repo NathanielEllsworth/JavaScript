@@ -4,10 +4,10 @@ This is where I am logging my progression through codecademy.com's coding course
 
 Courses:________Completed:_____Time:
 
-Java_________100%_________12_hours
+Java_______________100%_________12_hours
 
 HTML_&_CSS______100%_________30_hours
 
-jQuery_______100%__________8_hours
+jQuery_____________100%__________8_hours
 
-JavaScript____25%__________8_hours
+JavaScript__________25%__________8_hours
