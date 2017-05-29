@@ -10,4 +10,4 @@ HTML_&_CSS______100%_________30_hours
 
 jQuery_____________100%__________8_hours
 
-JavaScript__________25%__________8_hours
+JavaScript___________25%__________8_hours
