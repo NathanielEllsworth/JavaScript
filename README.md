@@ -1,6 +1,6 @@
 # JavaScript
 
-This is where I am logging my progression through codecademy.com's coding courses.
+This is where I log my progression through codecademy.com's coding courses.
 
 Courses:___________Completed:_____Time:
 
