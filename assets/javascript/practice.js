@@ -2,9 +2,9 @@
  *
  * Code-Cadamy JavaScript course
  *
- * 5/29/2017
+ * 5/29/2017   8 Hours
  *
- * '   ' Hours to complete
+ *
  *
  *
  */
